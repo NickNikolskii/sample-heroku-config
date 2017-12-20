@@ -10,6 +10,6 @@ SendMeRand - отправить случайный смайлик. ʕ•ᴥ•ʔ
 SendMeIDontKnownWhat - отправить. ¯\_(ツ)_/¯    
 GiveMeDiretide - отправить. ༼ つ ◕_◕ ༽つ    
 SendMeInsult - ꒰♥︎꒱ઽᵘᵏⁱ♡ৎˊ͈ˣੰૢˋ͈ॢॽ∗｡    
-MostPopularStat - показать статистику популярности смайлов.
+MostPopularStat - показать статистику популярности смайлов.     
 MostPopular - отправить самый популярный смайл.
 Goodbye - отправить Goodbye.    
