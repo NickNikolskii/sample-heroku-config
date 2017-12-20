@@ -11,5 +11,6 @@ SendMeIDontKnownWhat - отправить. ¯\_(ツ)_/¯
 GiveMeDiretide - отправить. ༼ つ ◕_◕ ༽つ    
 SendMeInsult - ꒰♥︎꒱ઽᵘᵏⁱ♡ৎˊ͈ˣੰૢˋ͈ॢॽ∗｡    
 MostPopularStat - показать статистику популярности смайлов.     
-MostPopular - отправить самый популярный смайл.
+MostPopular - отправить самый популярный смайл.     
+Stats(Smile) - статистика по смайлу.
 Goodbye - отправить Goodbye.    
