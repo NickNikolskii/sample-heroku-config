@@ -6,7 +6,7 @@ SendMeSad - тип грустные сайлики.(╥﹏╥)
 SendMeHappy - отправляет веселые.(͡° ͜ʖ ͡°)    
 SendMeMad - отправить злые. ᕙ( ︡'︡益'︠)ง    
 SendMeLove - отправить сердечко.<3    
-SendMeRand - отправить случайный смайлик. ʕ•ᴥ•ʔ    
+SendMeBear - отправить случайный смайлик. ʕ•ᴥ•ʔ    
 SendMeIDontKnownWhat - отправить. ¯\_(ツ)_/¯    
 GiveMeDiretide - отправить. ༼ つ ◕_◕ ༽つ    
 SendMeInsult - ꒰♥︎꒱ઽᵘᵏⁱ♡ৎˊ͈ˣੰૢˋ͈ॢॽ∗｡    
