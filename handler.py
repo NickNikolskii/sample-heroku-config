@@ -6,9 +6,22 @@ def handle_message(message, nickname="user"):
     @returns - text of response
     '''
 
-    answer = 'Hi, ' + nickname + '! '
-    answer += 'Your message is ' + str(len(message)) + ' charachters long.'
-
+    if message == "SendMeSad":
+        answer = "(╥﹏╥)"
+    elif message == "SendMeHappy":
+        answer = "(͡° ͜ʖ ͡°)"
+    elif message == "SendMeMad":
+        answer = "ᕙ( ︡'︡益'︠)ง"
+    elif message == "SendMeLove":
+        answer = "<3"
+    elif message == "SendMeВедмідь":
+        answer = "ʕ•ᴥ•ʔ"
+    elif message == "SendMeIDontKnownWhat":
+        answer = "¯\_(ツ)_/¯"
+    elif message == "GiveMeDiretide":
+        answer = "༼ つ ◕_◕ ༽つ"
+    elif message == "Goodbye":
+        answer = "Goodbye" + " " + nickname
     return answer
 
 
