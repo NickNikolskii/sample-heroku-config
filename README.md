@@ -9,8 +9,9 @@ SendMeLove - отправить сердечко.<3
 SendMeBear - отправить случайный смайлик. ʕ•ᴥ•ʔ    
 SendMeIDontKnownWhat - отправить. ¯\_(ツ)_/¯    
 GiveMeDiretide - отправить. ༼ つ ◕_◕ ༽つ    
-SendMeInsult - ꒰♥︎꒱ઽᵘᵏⁱ♡ৎˊ͈ˣੰૢˋ͈ॢॽ∗｡    
-MostPopularStat - показать статистику популярности смайлов.     
+SendMeInsult - ꒰♥︎꒱ઽᵘᵏⁱ♡ৎˊ͈ˣੰૢˋ͈ॢॽ∗｡
+Random - отправить случайный смайл.
+ShowMeStats - показать статистику популярности смайлов.     
 MostPopular - отправить самый популярный смайл.     
 Stats(Smile) - статистика по смайлу.    
 Goodbye - отправить Goodbye.    
