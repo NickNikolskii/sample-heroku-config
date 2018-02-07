@@ -58,7 +58,6 @@ def handle_message(message, nickname="user"):
     elif message == "ShowMeStats":
         Smiles = sorted(Smiles, key=lambda x: x[1], reverse=True)
         answer = ""
-        #answer = "1st:" + Smiles[0][0] + " with score = " + str(Smiles[0][1]) + "    2nd:" + Smiles[1][0] + " with score = " + str(Smiles[1][1]) + "    3rd:" + Smiles[2][0] + " with score = " + str(Smiles[2][1])
         m = 1
         for i in Smiles:
             answer += str(m) + " - " + i[0] + " with " + str(i[1]) + " call(s)" + "\n"
